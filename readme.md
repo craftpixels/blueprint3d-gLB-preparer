@@ -16,7 +16,7 @@ Before using this script, ensure you have:
 - Basic understanding of Blender's scripting environment
 
 ## Screenshot
-![Screenshot from 2025-03-27 15-21-44](https://github.com/user-attachments/assets/77209cb0-cba3-44ae-a87e-88a86debb0e7)
+
 
 ## Usage
 Run the script from Blender’s scripting editor or via command line:
